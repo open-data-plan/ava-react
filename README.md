@@ -16,7 +16,7 @@ npm install @opd/ava
 
 ## Usage
 
-```tsx
+```tsx | pure
 import React from 'react'
 import AVAChart from '@opd/ava'
 
