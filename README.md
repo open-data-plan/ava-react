@@ -16,11 +16,26 @@ npm install @opd/ava
 
 ## Usage
 
-```tsx | pure
+```tsx
 import React from 'react'
 import AVAChart from '@opd/ava'
 
-export default () => <AVAChart data={[]} />
+const data = [
+  {
+    x: 'A',
+    y: 2,
+  },
+  {
+    x: 'B',
+    y: 4,
+  },
+  {
+    x: 'C',
+    y: 6,
+  },
+]
+
+export default () => <AVAChart data={data} />
 ```
 
 ## Develop
