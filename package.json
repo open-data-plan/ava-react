@@ -39,7 +39,9 @@
     "build:es": "babel src -d es --extensions .ts,.tsx",
     "build:commonjs": "cross-env BABEL_ENV=commonjs babel src -d lib --extensions .ts,.tsx",
     "build:types": "tsc",
-    "preversion": "npm run build"
+    "preversion": "npm run build",
+    "dev": "dumi dev",
+    "build:docs": "dumi build"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
