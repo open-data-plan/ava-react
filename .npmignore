@@ -1,3 +1,5 @@
 # umi
 .umi
 dist
+es/.umi
+lib/.umi
