@@ -49,7 +49,7 @@
     "@opd/eslint-config-pangu": "^1.2.0",
     "@opd/jest-preset-pangu": "^1.4.0",
     "@opd/prettier-config-pangu": "^1.2.0",
-    "@types/jest": "^25.2.3",
+    "@types/jest": "^26.0.0",
     "@types/react-dom": "^16.9.8",
     "cross-env": "^7.0.2",
     "dumi": "^1.0.26",
