@@ -44,21 +44,21 @@
     "build:docs": "dumi build"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.4",
-    "@opd/babel-preset-component": "^1.5.0",
-    "@opd/eslint-config-pangu": "^1.5.0",
-    "@opd/jest-preset-pangu": "^1.5.0",
+    "@babel/cli": "^7.10.5",
+    "@opd/babel-preset-component": "^1.6.0",
+    "@opd/eslint-config-pangu": "^1.8.1",
+    "@opd/jest-preset-pangu": "^1.8.1",
     "@opd/prettier-config-pangu": "^1.2.0",
     "@types/react-dom": "^16.9.8",
     "cross-env": "^7.0.2",
-    "dumi": "^1.0.31",
+    "dumi": "^1.0.34",
     "husky": "^4.2.5",
     "jest-canvas-mock": "^2.2.0",
     "lint-staged": "^10.2.11",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-test-renderer": "^16.13.1",
-    "typescript": "^3.9.5"
+    "typescript": "^3.9.7"
   },
   "prettier": "@opd/prettier-config-pangu",
   "dependencies": {
