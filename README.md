@@ -35,7 +35,7 @@ const data = [
   },
 ]
 
-export default () => <AVAChart data={data} />
+export default () => <AVAChart data={data} toolbar />
 ```
 
 ## Develop
