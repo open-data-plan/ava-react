@@ -65,3 +65,4 @@ es
 # umi
 .umi
 dist
+*.d.ts
