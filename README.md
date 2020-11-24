@@ -16,23 +16,14 @@ npm install @opd/ava
 
 ## Usage
 
-```tsx
+```tsx | pure
 import React from 'react'
 import AVAChart from '@opd/ava'
 
 const data = [
-  {
-    x: 'A',
-    y: 2,
-  },
-  {
-    x: 'B',
-    y: 4,
-  },
-  {
-    x: 'C',
-    y: 6,
-  },
+  { field1: 'a', field2: 100 },
+  { field1: 'b', field2: 300 },
+  { field1: 'c', field2: 800 },
 ]
 
 export default () => <AVAChart data={data} toolbar />
