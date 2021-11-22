@@ -63,7 +63,7 @@
   },
   "prettier": "@opd/prettier-config-pangu",
   "dependencies": {
-    "@antv/chart-advisor": "^1.0.0"
+    "@antv/chart-advisor": "^2.0.0"
   },
   "husky": {
     "hooks": {
