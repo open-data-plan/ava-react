@@ -44,7 +44,7 @@
     "build:docs": "dumi build"
   },
   "devDependencies": {
-    "@babel/cli": "^7.12.1",
+    "@babel/cli": "^8.0.1",
     "@opd/babel-preset-component": "^1.11.3",
     "@opd/eslint-config-pangu": "^1.11.6",
     "@opd/jest-preset-pangu": "^1.11.6",
